@@ -3,5 +3,15 @@
     "dat-swarm-defaults": "^1.0.3",
     "discovery-swarm": "^6.1.0",
     "get-port": "^7.1.0"
-  }
+  },
+  "name": "orbit",
+  "version": "1.0.0",
+  "description": "Orbit is an application to transfer files across your devices using a P2P network, by just turning the device on.",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
